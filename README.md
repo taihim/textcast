@@ -5,3 +5,4 @@ look into quanitizing the dia tts model for local generation
 
 web scraper? use llm for scraping decisions
 
+random commit
